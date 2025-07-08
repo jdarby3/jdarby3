@@ -1,4 +1,8 @@
-## Hi there, I'm James
+## 👋 Howdy, I'm James
+
+I'm just getting started on my programming journey — learning Python, Git, and building small projects as I go.
+
+Right now, I'm focused on improving my coding fundamentals and getting comfortable with real development tools.
 
 <!--
 **jdarby3/jdarby3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
