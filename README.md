@@ -1,4 +1,4 @@
-## 👋 Howdy, I'm James
+## Howdy, I'm James
 
 I'm just getting started on my programming journey — learning Python, Git, and building small projects as I go.
 
